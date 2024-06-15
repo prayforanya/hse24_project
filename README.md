@@ -11,7 +11,7 @@
 ## Тетрадки
 Определение квадруплексов: https://colab.research.google.com/drive/1JtLIcXimRo70PdOrP4234iTRwQmLroQz?usp=sharing <br>
 ZHUNT : https://colab.research.google.com/drive/152Q7Rq6DZ6yF_TDfgUyigSUZ3aC2j0RF?usp=sharing <br>
-ZDNABERT: https://colab.research.google.com/drive/1lBE1pLN4O4cCwmP8jhUu_tVp3vtupNKL?usp=sharing <br>
+ZDNABERT: https://colab.research.google.com/drive/1hcbODA_mzsm-B8YuZs_jYwsSZ7rygy9G?usp=sharing <br>
 HMMer: https://colab.research.google.com/drive/1wwvElKoQRKy63RXTSntXW_1yxDihaMik?usp=sharing <br>
 
 
