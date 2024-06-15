@@ -8,14 +8,28 @@
 Также E. invadens содержит представителей семейств генов, содержащие домен Myb, которые регулируются во время инвазии в толстую кишку и образования абсцесса печени. 
 У E. invadens присутсвует связь между развитием цисты и ацетилированием гистона H4.
 
+## Тетрадки
+Определение квадруплексов: https://colab.research.google.com/drive/1JtLIcXimRo70PdOrP4234iTRwQmLroQz?usp=sharing <br>
+ZHUNT : https://colab.research.google.com/drive/152Q7Rq6DZ6yF_TDfgUyigSUZ3aC2j0RF?usp=sharing <br>
+ZDNABERT: https://colab.research.google.com/drive/1lBE1pLN4O4cCwmP8jhUu_tVp3vtupNKL?usp=sharing <br>
+HMMer: https://colab.research.google.com/drive/1wwvElKoQRKy63RXTSntXW_1yxDihaMik?usp=sharing <br>
+
+
 ## Табличка
 |Проверяемое семейство|Название гена|
 |:------:|:--:|
-|TUDOR | hypothetical protein EIN_405260 |
-|Chromo | 0 | 0.00% | 
-|Promoters (1000 up from TSS) | 13 | 13.4% |
-|Downstream (200 bp) | 0 | 0.00% |
-|Intergenic | 78 | 80.41% |
+|TUDOR |  EIN_405260 |
+|Chromo | EIN_094130 | 
+|WD40  | EIN_047780 |
+|zf-rbx1 | EIN_377170 |
+|CPSF_A |EIN_430670 |
+|Cullin | EIN_495430|
+|PHD | EIN_428060|
+|DnaJ | EIN_052270 |
+|Acetyltransf_1| EIN_095120|
+|Pkinase | EIN_175500|
+|HAT | crooked neck protein|
+
 
 ## Табличка
 |Участок|Число квадруплексов|Доля квадруплексов|Число предсказаний Zhun|Доля предсказаний Zhun|Число предсказаний ZDNABERT|Доля предсказаний ZDNABERT|
